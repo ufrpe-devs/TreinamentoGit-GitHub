@@ -9,3 +9,4 @@ def eh_par(a):
 
 def eh_impar(a):
     return not eh_par(a)
+
